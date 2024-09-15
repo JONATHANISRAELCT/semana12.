@@ -1,4 +1,3 @@
-temperaturas
 
 def calcular_temperatura_promedio(datos_temperaturas):
     promedios = {}
